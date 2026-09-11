@@ -10,4 +10,4 @@ resources:
 images:
 - name: doohyungkim/hello-app
   newName: doohyungkim/hello-app
-  newTag: 635276d
+  newTag: 7f18f08
